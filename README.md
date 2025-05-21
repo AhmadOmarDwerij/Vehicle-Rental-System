@@ -1,7 +1,7 @@
 # Vehicle-Rental-System
 This C++ project implements a simple vehicle rental system with object-oriented programming concepts
 
-If you have a C++ compiler (like g++ ):
+To compile and run this C++ program locally using the terminal, follow these steps:
 
 1) Save the code in a file (rental.cpp).
 
